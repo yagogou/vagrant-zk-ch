@@ -1,0 +1,7 @@
+<yandex>
+    <macros>
+        <cluster>altinitydemo</cluster>
+        <shard>1</shard>
+        <replica>altinity3.test</replica>
+    </macros>
+</yandex>

@@ -1,0 +1,20 @@
+<yandex>
+    <remote_servers>
+        <altinitydemo>
+            <shard>
+                <replica>
+                    <host>altinity1.test</host>
+                    <port>9000</port>
+                </replica>
+                <replica>
+                    <host>altinity2.test</host>
+                    <port>9000</port>
+                </replica>
+                <replica>
+                    <host>altinity3.test</host>
+                    <port>9000</port>
+                </replica>
+            </shard>
+        </altinitydemo>
+    </remote_servers>
+</yandex>

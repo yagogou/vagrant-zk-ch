@@ -1,0 +1,15 @@
+127.0.0.1 localhost
+127.0.1.1	devel	devel
+
+192.168.18.201  altinity1.test  altinity1.test
+192.168.18.202  altinity2.test  altinity2.test
+192.168.18.203  altinity3.test  altinity3.test  
+
+192.168.18.211  zookeeper1.test zookeeper1.test
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
